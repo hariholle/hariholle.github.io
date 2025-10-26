@@ -1,4 +1,4 @@
-# 👋 Привет! Я [Твое Имя]
+# 👋 Привет! Я hariholle
 
 ### Frontend Developer | Python Enthusiast
 
